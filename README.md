@@ -5,6 +5,8 @@ Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering, Po
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakmoud&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakmoud)](https://git.io/streak-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepakmoud)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakmoud)](https://github.com/ryo-ma/github-profile-trophy)
 
 
