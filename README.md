@@ -4,10 +4,10 @@ Website Developed.
 https://cspietmllab.herokuapp.com/aboutusnew                                                                                                                                                      
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
-http://www.cstech.poornima.org
+http://www.cstech.poornima.org                                                                                                                                                                
 You can find me on                                                                                                                                                                                    
-[1]: https://gmail.com/deepakmoud                                                                                                                                                             
-[2]: https://www.linkedin.com/in/deepakmoud/
+                                                                                                                                                            
+ https://www.linkedin.com/in/deepakmoud/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmoud)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakmoud&count_private=true)
