@@ -19,5 +19,5 @@ You can find me on  [![LinkedIn][3.2]][3].
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakmoud)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- Actual text -->
+
 
