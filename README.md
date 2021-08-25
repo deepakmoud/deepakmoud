@@ -14,6 +14,4 @@ http://www.cstech.poornima.org
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakmoud)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/deepakmoud/deepakmoud/blob/main/github-metrics.svg)
-![Metrics](https://metrics.lecoq.io/my-github-user)
+
