@@ -5,9 +5,9 @@ https://cspietmllab.herokuapp.com/aboutusnew
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
 http://www.cstech.poornima.org
-You can find me on 
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://twitter.com/deepakmoud
+You can find me on                                                                                                                                                                                    
+
+[1]: https://gmail.com/deepakmoud                                                                                                                                                                   
 [2]: https://www.linkedin.com/in/deepakmoud/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmoud)](https://github.com/anuraghazra/github-readme-stats)
