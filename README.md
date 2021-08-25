@@ -12,7 +12,7 @@ http://www.cstech.poornima.org
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakmoud)](https://git.io/streak-stats)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakmoud)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
