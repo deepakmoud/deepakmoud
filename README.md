@@ -6,7 +6,7 @@ http://www.cspiet.poornima.org
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
 http://www.cstech.poornima.org                                                                                                                                                                
 You can find me on                                                                                                                                                                                    
-                                                                                                                                                            
+  https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url                                                                                                                                                          
  https://www.linkedin.com/in/deepakmoud/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmoud)](https://github.com/anuraghazra/github-readme-stats)
