@@ -4,7 +4,8 @@ Website Developed.
 https://cspietmllab.herokuapp.com/aboutusnew                                                                                                                                                      
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
-http://www.cstech.poornima.org                                                                                                                                                                
+http://www.cstech.poornima.org  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e125b77-384f-4bc0-9b4b-46a06e3d0524" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 You can find me on                                                                                                                                                                                    
   https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url                                                                                                                                                          
  https://www.linkedin.com/in/deepakmoud/
