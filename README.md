@@ -5,7 +5,7 @@ https://cspietmllab.herokuapp.com/aboutusnew
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
 http://www.cstech.poornima.org  
-Certifications
+Certifications                                                                                                                                                                                 
   https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url  
   https://www.credly.com/badges/1a7ad3fe-fbb4-41e1-92a3-6a11a9419e2e/public_url                                                                                                       
 You can find me on                                                                                                                                                                     
