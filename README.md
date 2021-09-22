@@ -22,7 +22,23 @@ You can find me on
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakmoud&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakmoud)](https://git.io/streak-stats)
+## 😋 Let's Connect 
 
+<a href="https://linkedin.com/in/deepak-moud-876076119/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:deepakmoud@poornima.org" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:deepakmoud@gmail.org" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://dev.to/thatfreakcoder/" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" />
+</a>
+<a href="https://instagram.com/yuvraj_dagur" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakmoud)](https://github.com/ryo-ma/github-profile-trophy)
 
