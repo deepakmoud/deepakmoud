@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering, Poornima Institute of Engineering & technology, Jaipur. He has more than 16 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP and AICTE and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
+Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering, Poornima Institute of Engineering & technology, Jaipur. He has more than 16 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
 Website Developed.
 https://cspietmllab.herokuapp.com/aboutusnew                                                                                                                                                      
 http://www.cspiet.poornima.org                                                                                                                                                                  
@@ -33,7 +33,7 @@ You can find me on
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:deepakmoud@poornima.org" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=poornima&logoColor=white" />
 </a>
 <a href="mailto:deepakmoud@gmail.org" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
