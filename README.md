@@ -38,3 +38,11 @@ You can find me on
 <a href="mailto:deepakmoud@gmail.org" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/thatfreakcoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatfreakcoder&hide=css,typescript&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>
+<a href="https://github.com/thatfreakcoder/thatfreakcoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatfreakcoder&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>
+</ br>
