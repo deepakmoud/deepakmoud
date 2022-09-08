@@ -14,6 +14,14 @@ https://cspietdeeplearn.herokuapp.com
 https://digit-recognition-internship.herokuapp.com
 
 https://internship-prepocessing.herokuapp.com
+
+https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
+
+https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
+
+https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app-o8ahll.streamlitapp.com
+
+https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com/
 ## 🔧  Certificates                                                                                                                                                                                
   https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url  
   https://www.credly.com/badges/1a7ad3fe-fbb4-41e1-92a3-6a11a9419e2e/public_url                                                                                                       
