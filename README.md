@@ -8,8 +8,11 @@ http://www.cstech.poornima.org
 
 ## 🔧  Applications  Developed
 https://classificationcatdog.herokuapp.com
+
 https://cspietdeeplearn.herokuapp.com
+
 https://digit-recognition-internship.herokuapp.com
+
 https://internship-prepocessing.herokuapp.com
 ## 🔧  Certificates                                                                                                                                                                                
   https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url  
