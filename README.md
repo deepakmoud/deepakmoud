@@ -1,19 +1,19 @@
 ### Deepak Moud 👋
 Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering, Poornima Institute of Engineering & technology, Jaipur. He has more than 18 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
 ## 🔧  Websites
-https://cspietmllab.herokuapp.com/aboutusnew                                                                                                                                                      
+http://deepakmoud.pythonanywhere.com                                                                                                                                                     
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                                
 http://www.cstech.poornima.org  
 
 ## 🔧  Applications  Developed
-https://classificationcatdog.herokuapp.com
 
-https://cspietdeeplearn.herokuapp.com
 
-https://digit-recognition-internship.herokuapp.com
 
-https://internship-prepocessing.herokuapp.com
+
+
+
+
 
 https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
 
