@@ -8,6 +8,7 @@ http://www.cstech.poornima.org
 http://moud.pythonanywhere.com
 
 ## 🔧  Applications  Developed
+http://pietcs.pythonanywhere.com
 https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
 
 https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
