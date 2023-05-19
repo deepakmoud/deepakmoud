@@ -1,21 +1,40 @@
 ### Deepak Moud 👋
 Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering,  He has more than 18 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
 ## 🔧  Websites
-http://deepakmoud.pythonanywhere.com                                                                                                                                                    
+                                                                                                                                                    
 http://www.cspiet.poornima.org                                                                                                                                                                  
 http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                              
 http://www.cstech.poornima.org  
-http://moud.pythonanywhere.com
+
 
 ## 🔧  Applications  Developed
-http://pietcs.pythonanywhere.com
-https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
 
-https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
+1.http://deepakmoud.pythonanywhere.com
+2.http://www.cspiet.poornima.org
+3.http://www.cspiet.poornima.org/KYS_CORE/editHome
+4.http://www.cstech.poornima.org
+5.http://moud.pythonanywhere.com
+6.http://deepakmoudimageclassification.pythonanywhere.com
+7.http://pietcs.pythonanywhere.com
+8.http://preprocessing.pythonanywhere.com
+9.http://knn.pythonanywhere.com
+10.http://naivebayes.pythonanywhere.com
+11.http://nlplstm.pythonanywhere.com
+12.http://session5.pythonanywhere.com
+13.http://regression.pythonanywhere.com
+14.http://clusteringapp1.pythonanywhere.com
+15.http://churnmodeling.pythonanywhere.com/
+16.http://flaskdatabaseapp.pythonanywhere.com
+17.http://clusteringapp2.pythonanywhere.com/
+18.http://websrappingdemo.pythonanywhere.com
+19.http://clusteringapp.pythonanywhere.com
+20.https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
+21.https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
+22.https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app- o8ahll.streamlitapp.com
+23.https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com/
 
-https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app-o8ahll.streamlitapp.com
 
-https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com/
+
 ## 🔧  Certificates                                                                                                                                                                                
   https://www.credly.com/badges/2e125b77-384f-4bc0-9b4b-46a06e3d0524/public_url  
   https://www.credly.com/badges/1a7ad3fe-fbb4-41e1-92a3-6a11a9419e2e/public_url                                                                                                       
