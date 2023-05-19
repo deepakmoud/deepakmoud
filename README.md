@@ -10,28 +10,50 @@ http://www.cstech.poornima.org
 ## 🔧  Applications  Developed
 
 1.http://deepakmoud.pythonanywhere.com
+
 2.http://www.cspiet.poornima.org
+
 3.http://www.cspiet.poornima.org/KYS_CORE/editHome
+
 4.http://www.cstech.poornima.org
+
 5.http://moud.pythonanywhere.com
+
 6.http://deepakmoudimageclassification.pythonanywhere.com
+
 7.http://pietcs.pythonanywhere.com
+
 8.http://preprocessing.pythonanywhere.com
+
 9.http://knn.pythonanywhere.com
+
 10.http://naivebayes.pythonanywhere.com
+
 11.http://nlplstm.pythonanywhere.com
+
 12.http://session5.pythonanywhere.com
+
 13.http://regression.pythonanywhere.com
+
 14.http://clusteringapp1.pythonanywhere.com
-15.http://churnmodeling.pythonanywhere.com/
+
+15.http://churnmodeling.pythonanywhere.com
+
 16.http://flaskdatabaseapp.pythonanywhere.com
-17.http://clusteringapp2.pythonanywhere.com/
+
+17.http://clusteringapp2.pythonanywhere.com
+
 18.http://websrappingdemo.pythonanywhere.com
+
 19.http://clusteringapp.pythonanywhere.com
+
 20.https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
+
 21.https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
+
 22.https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app- o8ahll.streamlitapp.com
-23.https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com/
+
+23.https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com
 
 
 
