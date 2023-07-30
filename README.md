@@ -1,21 +1,17 @@
 ### Deepak Moud 👋
 Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering,  He has more than 18 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
 ## 🔧  Websites
-                                                                                                                                                    
-http://www.cspiet.poornima.org                                                                                                                                                                  
-http://www.cspiet.poornima.org/KYS_CORE/editHome                                                                                                                                              
-http://www.cstech.poornima.org  
+                                                                                                                                                                                                                                                        http://deepakmoud.pythonanywhere.com
+                                                                                                                          http://pietcs.pythonanywhere.com                                                                                                                         
+                                                                                                                                                                                                                                                        http://moud.pythonanywhere.com
 
 
 ## 🔧  Applications  Developed
 
 1.http://deepakmoud.pythonanywhere.com
 
-2.http://www.cspiet.poornima.org
 
-3.http://www.cspiet.poornima.org/KYS_CORE/editHome
 
-4.http://www.cstech.poornima.org
 
 5.http://moud.pythonanywhere.com
 
