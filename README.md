@@ -80,10 +80,7 @@ http://www.cstech.poornima.org
 <a href="https://linkedin.com/in/deepak-moud-876076119/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:deepakmoud@poornima.org" target="_blank">
+<a href="mailto:deepakmoud@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=poornima&logoColor=white" />
-</a>
-<a href="mailto:deepakmoud@gmail.org" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
