@@ -65,7 +65,7 @@ http://moud.pythonanywhere.com
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ## 🔧 GITHUB Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmoud)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmoud)](https://github.com/deepakmoud/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=deepakmoud&count_private=true)
 ## 🔧 GITHUB Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakmoud)](https://git.io/streak-stats)
