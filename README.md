@@ -1,5 +1,5 @@
 ### Deepak Moud 👋
-Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering,  He has more than 18 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.
+Mr. Deepak Moud is Assistant Professor in Department of Computer Engineering,  He has more than 18 years of teaching experience. He is BE, MTech in Computer Science & Engineering. His research interests are in the area of Image Processing, Machine Learning, Deep Learning and data Mining. He has published more than 20 research papers in reputed journal in this area. He has received Best paper award two times. He guided many Deep Learning, Machine learning, Python flask, Java projects. He has conducted training on various technologies. He has been resource person for more than 5 ATAL FDP  and TEQIP sponsored Workshops. He is Microsoft certified Azure AI Fundamental and Data Fundamental professional.he is Oracle Certified java associate and Google certified cloud digital leader.
 ## 🔧  Websites  
 http://deepakmoud.pythonanywhere.com 
 
@@ -11,46 +11,43 @@ http://moud.pythonanywhere.com
 
 1.http://deepakmoud.pythonanywhere.com
 
+2.http://moud.pythonanywhere.com
 
+3.http://deepakmoudimageclassification.pythonanywhere.com
 
+4.http://pietcs.pythonanywhere.com
 
-5.http://moud.pythonanywhere.com
+5.http://preprocessing.pythonanywhere.com
 
-6.http://deepakmoudimageclassification.pythonanywhere.com
+6.http://knn.pythonanywhere.com
 
-7.http://pietcs.pythonanywhere.com
+7.http://naivebayes.pythonanywhere.com
 
-8.http://preprocessing.pythonanywhere.com
+8.http://nlplstm.pythonanywhere.com
 
-9.http://knn.pythonanywhere.com
+9.http://session5.pythonanywhere.com
 
-10.http://naivebayes.pythonanywhere.com
+10.http://regression.pythonanywhere.com
 
-11.http://nlplstm.pythonanywhere.com
+11.http://clusteringapp1.pythonanywhere.com
 
-12.http://session5.pythonanywhere.com
+12.http://churnmodeling.pythonanywhere.com
 
-13.http://regression.pythonanywhere.com
+13.http://flaskdatabaseapp.pythonanywhere.com
 
-14.http://clusteringapp1.pythonanywhere.com
+14.http://clusteringapp2.pythonanywhere.com
 
-15.http://churnmodeling.pythonanywhere.com
+15.http://websrappingdemo.pythonanywhere.com
 
-16.http://flaskdatabaseapp.pythonanywhere.com
+16.http://clusteringapp.pythonanywhere.com
 
-17.http://clusteringapp2.pythonanywhere.com
+17.https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
 
-18.http://websrappingdemo.pythonanywhere.com
+18.https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
 
-19.http://clusteringapp.pythonanywhere.com
+19.https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app- o8ahll.streamlitapp.com
 
-20.https://deepakmoud-random-forest-streamlit-deployment-app-mp687r.streamlitapp.com
-
-21.https://deepakmoud-kmeanddeployment-streamlit-app-jtl4do.streamlitapp.com
-
-22.https://deepakmoud-digit-recognition-nn-model-straemlit-depl-app- o8ahll.streamlitapp.com
-
-23.https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com
+20.https://deepakmoud-decision-tree-streamlit-deployment-app-7rl0dv.streamlitapp.com
 
 
 
